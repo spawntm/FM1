@@ -1,0 +1,11 @@
+* {
+    background-color: hsl(212, 45%, 89%);
+}
+
+.qr {
+    width: 300px;
+    border-radius: 10%;
+    align-items: center;
+
+
+}
