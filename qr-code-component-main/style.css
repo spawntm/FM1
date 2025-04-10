@@ -4,8 +4,45 @@
 
 .qr {
     width: 300px;
-    border-radius: 10%;
-    align-items: center;
+    height: 300px;
+    border-radius: 3%;
+    display: block;
+    margin: auto;
 
+}
 
+body {
+    display: block;   
+    top: 255px;
+    width: 300px;
+    margin: 255px;
+    padding: 15px;
+    border-radius: 5%;
+    background-color: white !important;
+}
+
+.improve {
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 20px;
+    font-weight: 700;
+    background-color: white;
+    text-align: center;
+}
+.scan {
+    padding-top: 20px;
+    padding-left: 19px;
+    padding-right: 19px;
+    text-align: center;
+    background-color: white;
+    font-weight: 400;
+    padding-bottom: 20px;
+    font-size: 15px;
+    color: hsl(216, 15%, 48%)
+}
+
+.all {
+    background-color: white !important;
+    font-family: 'outfit';
 }
